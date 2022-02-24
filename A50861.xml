@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarks upon the occasional paper, number VIII in a letter to the author.</title>
+            <author>Milles, Thomas, 1671-1740.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50861</idno>
+            <idno type="STC">Wing M2068</idno>
+            <idno type="STC">ESTC R31895</idno>
+            <idno type="EEBO-CITATION">12272793</idno>
+            <idno type="OCLC">ocm 12272793</idno>
+            <idno type="VID">58339</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50861)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58339)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1508:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remarks upon the occasional paper, number VIII in a letter to the author.</title>
+                  <author>Milles, Thomas, 1671-1740.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1697?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publicatin suggested by Wing.</note>
+                  <note>"The 'author' is Richard Willis"--NUC pre-1956 imprints.</note>
+                  <note>Imperfect: t.p. stained with loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Willis, Richard, 1664-1734.</term>
+               <term>Church of England --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:58339:1"/>
+            <pb n="1" facs="tcp:58339:1"/>
+            <head>REMARKS UPON THE <hi>Occaſional Paper,</hi> NUMBER VIII.</head>
+            <head type="sub">In a Letter to the <hi>AUTHOR.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Was very much ſurpriz'd, to find you charge the Author of the <hi>Vindication of the depriv'd Biſhops,</hi> ſo ſeverely as you do, <hi>pag.</hi> 3, and 4. of your late <hi>Oc<g ref="char:EOLhyphen"/>caſional Paper;</hi> he having given you no occaſion, that I, or any unprejudic'd Perſon can ſee, for thoſe unkind Reflections. Your Paper pretends to ſhew the <hi>Neceſſity of Chriſtian Diſcipline;</hi> and therefore I cannot but won<g ref="char:EOLhyphen"/>der you ſhould ſeem ſo deſirous to pick a Quarrel with one who has always been, and is ſtill ready upon all occa<g ref="char:EOLhyphen"/>ſions to ſecond your Deſign. What he has ſaid and writ in Defence of the Rights of the Clergy, might, one would have thought, have ſecured him from the Pen of a Clergyman; and though he ſhould be found to have been ſomewhat miſtaken in ſo generouſly aſſerting the Rights of the Church, yet the Honeſty and Sincerity of his Intentions ought to have induced you to have drawn
+<pb n="2" facs="tcp:58339:2"/>a Veil over appendant Miſcarriages. The Temper of the Laity in this Age and Nation is ſuch, that few of them appear very forward to defend even the juſt Pri<g ref="char:EOLhyphen"/>vileges of the Clergy; and therefore when a Layman will write in their behalf, they ought to be ſo true to their own Intereſts, as at leaſt to ſtand Neuters the mean while.</p>
+            <p>But it ſeems, 'tis fear'd, <hi>That the Rights of the Church are carried to ſuch a height,</hi> as to <hi>give juſt ground of Suſpi<g ref="char:EOLhyphen"/>cion and Jealouſy to the Magiſtrate.</hi> This ought to have been proved, as well as aſſerted. But I cannot ſee how that Power which this Author aſſerts to the Church, can give any the leaſt Cauſe of Jealouſy to the Magiſtrate; ſince 'tis a purely Spiritual Power, and ſuch as is wholly independent of, and has no manner of relation to, and therefore cannot interfere with that of the State. Nor can it endanger the Safety of any Government: Becauſe thoſe who have it, are not enabled by it to meddle or con<g ref="char:EOLhyphen"/>cern themſelves at all in Temporal Matters, but only to Feed, Direct, and Govern that Flock, of which the Church hath made them Overſeers. Nay, they own, or ought to do ſo, That in all Lawful things they are to pay an <hi>Active</hi> Obedience to the Civil Magiſtrate; and where they cannot do this, without violating their Con<g ref="char:EOLhyphen"/>ſciences, that there they muſt patiently ſubmit, even to his moſt unjuſt Puniſhments, and utterly diſown all man<g ref="char:EOLhyphen"/>ner of Reſiſtance, purely upon the account of Religion. Men ſurely that own and maintain ſuch Principles as theſe, are not very likely to raiſe Commotions in a State, or diſturb the Government of the Civil Magi<g ref="char:EOLhyphen"/>ſtrate.</p>
+            <p>I don't at all doubt, but that the Government had good Reaſons to ſeize and ſuppreſs the Pamphlet you mention. There were poſſibly ſome things in it, which the Perſon by whoſe Order it was ſuppreſs'd, did not think convenient ſhould be expos'd to Publick View. But yet, ſince there was a Promiſe from one engaged in the Controverſy, That he would ſecure whatever ſhould be printed of that kind; and ſince after it was ſeiz'd,
+<pb n="3" facs="tcp:58339:2"/>and before it was ſuppreſs'd, there were Offers made of ſtriking out whatever was offenſive, and Printing thoſe Sheets over again, it ſeems ſomewhat hard it ſhould after all be condemn'd to the lining Trunks and Paper-Boxes.</p>
+            <p>You ſay <hi>the Title</hi> of this Author's Book <hi>is long and ob<g ref="char:EOLhyphen"/>ſcure:</hi> Which is a Charge as Falſe, as 'tis Impertinent. To prove it Falſe, I need do no more than preſent you with the Title, which runs thus; <hi>A</hi> DEFENCE <hi>of the</hi> Vindication <hi>of the</hi> Deprived Biſhops; <hi>wherein The Caſe of</hi> Abiathar <hi>is particularly conſidered, and the</hi> Invalidity <hi>of</hi> Lay-Deprivations <hi>is further proved, from the</hi> Doctrines <hi>received under the</hi> Old Teſtament, <hi>continued in the</hi> Firſt Ages <hi>of</hi> Chriſtianity, <hi>and from our own</hi> Fundamental Laws. Now I appeal to any Man of Senſe, whether this Title be e're a whit too long, or at all obſcure. But it ſeems, Sir, you thought that the Book being ſuppreſs'd, and ſo not likely to come abroad into the World, you might ſay any thing of it, no matter whether true or falſe, ſince few or none would be able to contradict you: And therefore the Au<g ref="char:EOLhyphen"/>thor is beholden to you, that you did not fall foul upon the Book it ſelf, but contented your ſelf to Nibble at the Title-Page. But, Good Sir, what matter is it how long or obſcure the Title may be, provided the Arguments thar are in it be clear and concluſive? I have often known a Glorious Title prefix'd to a very indifferent Book; as on the other hand, an Excellent Book have but an or<g ref="char:EOLhyphen"/>dinary Title; this being a matter of ſo little moment, that 'tis often left to the Diſcretion of the Bookſeller or Corrector. And truly I believe no one will judge of the Goodneſs or Badneſs of a Book, by its Title, unleſs they be ſuch as look no further than the Title Pages of Books. But it is the way of ſome Men, to endeavour to raiſe Prejudices againſt ſome ſort of Books, becauſe, forſooth, the Style, or Title-Page, or ſomething elſe as trifling, which does not concern the Merits of the Cauſe, is not to their minds.</p>
+            <p>I readily grant you, That they do a great <hi>Injury to the Church as to its Real Rights, who pretend to ſuch as are not ſo.</hi> But then, Sir, I muſt deſire you to grant me, That they
+<pb n="4" facs="tcp:58339:3"/>do a greater Injury to it, who tamely give up its Real Rights, and oppoſe thoſe who would defend them. And as they are no <hi>Friends to the Church,</hi> who draw <hi>upon it the Jealouſy of thoſe in Authority;</hi> ſo they are Friends to nei<g ref="char:EOLhyphen"/>ther Church nor State, who give the latter ſuch a Power over the former, as cannot be warranted by Scripture, Reaſon, or the earlieſt Antiquity.</p>
+            <p>You profeſs your ſelf glad, That this Author is neither a <hi>Clergyman,</hi> nor a <hi>Member of the Eſtabliſh'd Church.</hi> But I am ſure all good men are ſorry both for the one and the other; ſince a Perſon of his great Piety, and pro<g ref="char:EOLhyphen"/>found Learning, would be a Support and Ornament to both Church and Clergy.</p>
+            <p>As for the Meaſures of the Magiſtrate's Power over the Church, and whether it reaches ſo far, as that he may forbid the Exerciſe of thoſe Offices in his own Do<g ref="char:EOLhyphen"/>minions, which are inſeparable from the Epiſcopal Cha<g ref="char:EOLhyphen"/>racter, by thoſe who will not declare themſelves his Friends, it is the matter in Debate; and your ſaying, That <hi>indeed it's hard he ſhould not have ſuch a Power,</hi> does not determine it. I am ſure the Primitive Chriſtians of the firſt Three hundred Years after Chriſt, in ſome In<g ref="char:EOLhyphen"/>ſtances would not declare themſelves Friends to the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Emperors, in ſuch a manner as they required; and yet even in ſuch a Caſe, they did not think that they had a Power of hindring any particular Biſhop from the exer<g ref="char:EOLhyphen"/>ciſe of his Function in his particular Diſtrict. If you ſay the Caſe is alter'd ſince the Civil Magiſtrates are be<g ref="char:EOLhyphen"/>come Chriſtians: It is anſwer'd, That a Chriſtian Go<g ref="char:EOLhyphen"/>vernement has not the leaſt Authority or Juriſdiction over the Church in purely Spirituals (ſuch as certainly is the Exerciſe of a Spiritual Power within a particular Di<g ref="char:EOLhyphen"/>ſtrict), more than a Heathen. The Civil Magiſtrate re<g ref="char:EOLhyphen"/>ceives nothing more at his Baptiſm, than every ordinary Chriſtian does; and truly there is no reaſon why he ſhould expect it; ſince thoſe Benefits and Advantages which he receives by his Admiſſion into the Church, are far great<g ref="char:EOLhyphen"/>er than the Church receives from him by his defending and ſecuring its Temporal Rights and Privileges. And
+<pb n="5" facs="tcp:58339:3"/>though we ſhould ſuppoſe the Clergy could be ſo falſe to the Truſt committed to them by Chriſt, the Apoſtles, and their Succeſſors, as to give up theſe their unalienable Spi<g ref="char:EOLhyphen"/>ritual Rights to the Civil Power; yet ſuch a Donation would be a perfect Nullity, the Magiſtrate would have no more Right to them by it, than a Man would have to an Eſtate which he buys with a crack'd Title.</p>
+            <p>As for the Learned Dr. <hi>Hody</hi>'s ſhare in this Controver<g ref="char:EOLhyphen"/>ſy, it is certain he has ſaid nothing in his long Book, which the moſt Impartial and Judicious of his own ſide can judge to be capable in any tolerable meaſure either to ſatisfy the doubtful, or convince thoſe that are of a contrary Opinion. He argues upon ſuch a Suppoſition, as not only quite overturns what he has ſaid concerning the <hi>Reaſonableneſs of ſubmitting to the preſent Poſſeſſor,</hi> &amp;c. but alſo makes that huge Heap of Inſtances which he has amaſs'd together, though they were never ſo much to his purpoſe, as ſome of 'em are far enough from it, to ſignify nothing at all.</p>
+            <p>The Doctor ſuppoſes the <hi>worſt</hi> that can be imagined;<note place="margin">Pref.</note> That the <hi>Deprivation</hi> is not only <hi>unjuſt and uncanonical,</hi> but, as he ſuppoſes all Lay Deprivations to be, altogether <hi>inva<g ref="char:EOLhyphen"/>lid; i. e.</hi> to be perfectly <hi>null;</hi> yet notwithſtanding all this, the Doctor undertakes to prove, That 'tis Juſt, Reaſona<g ref="char:EOLhyphen"/>ble, and agreeable to Antiquity, to ſubmit to the preſent Poſſeſſor; <hi>i. e.</hi> to one that is not, nor can be, according to his Hypotheſis, a Biſhop of that particular Dioceſs. For all own that the Nature of an Invalid Act is ſuch, that it leaves no Effect behind it, produces no Alteration as to matter of Right, any more than if no ſuch Act had paſſed. Thus, for inſtance, if the Pope ſhould pretend, as they did formerly, to deprive and depoſe a King of <hi>England</hi> from his Power and Dignity; nay, and if he could ſecond ſuch a pretended Depoſition by Arm'd Force, and drive him out of his Kingdoms; yet no one can imagine that the Throne would thereby become vacant, but <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Prince would have the ſame Right he had before, and the Subjects as much oblig'd as ever, to adhere to their Baniſh'd Sovereign, notwithſtanding
+<pb n="6" facs="tcp:58339:4"/>any other Perſon the Pope might intrude upon them. Now if, as the Doctor ſuppoſes, ſuch is the Caſe of Lay-Deprivations, that they are thus null and invalid, I can<g ref="char:EOLhyphen"/>not ſee how an <hi>Anti-Biſhop</hi> can be indeed a Biſhop at all; (I mean, of that particular Diſtrict) ſince the See is not made void by ſuch a Deprivation, and the Biſhop in Poſſeſſion has notwithſtanding all the ſame Rights which he had before.</p>
+            <p>And 'tis in this ſenſe, and upon this Suppoſition, that the Learned <hi>Vindicator</hi> applies that Saying of St. <hi>Cyprian,</hi>
+               <note place="margin">Chap. 1. Sect. 9.</note> 
+               <hi>That a ſecond Biſhop is no Biſhop.</hi> The Doctor owns, If a Biſhop, put into the Place of one deprived by the Lay-Power, be indeed no Biſhop, that then we can't be obli<g ref="char:EOLhyphen"/>ged upon any account to ſubmit to him. Now the Vin<g ref="char:EOLhyphen"/>dicator does not,<note place="margin">
+                  <hi>See</hi> Vind. p. 1. Sect. 16, 17.</note> as the Doctor miſrepreſents him, al<g ref="char:EOLhyphen"/>ledge that Saying of St. <hi>Cyprian</hi> to prove, That a Biſhop put into, <hi>&amp;c.</hi> any otherwiſe than upon the ſame Suppo<g ref="char:EOLhyphen"/>ſition that the Doctor himſelf makes; <hi>viz.</hi> That a Lay-Deprivation is null and invalid, cannot make the Epiſco<g ref="char:EOLhyphen"/>pal Throne become Vacant. And then, to uſe the Doctor's Tranſlation of St. <hi>Cyprian, Since there cannot be a ſecond Biſhop, where another is already in Poſſeſſion,</hi>
+               <note place="margin">Et cum poſt primum ſe<g ref="char:EOLhyphen"/>cundus eſſe non poſſit; quiſ<g ref="char:EOLhyphen"/>quis poſt unum, qui ſolus eſſe debeat, factus eſt, non jam ſecundus ille, ſed nullus eſt. <hi>Ep.</hi> 55.</note> 
+               <hi>i. e.</hi> has a Right to the Poſſeſſion, whether he be in actual Poſſeſſi<g ref="char:EOLhyphen"/>on, or not, (for that's meant here, as eve<g ref="char:EOLhyphen"/>ry one muſt own) <hi>whoſoever is made Biſhop after another, who ought to be alone, the ſame is not a ſecond, but none.</hi>
+            </p>
+            <p>And if this Reaſoning holds, as, for ought I can ſee, it muſt, unleſs the Doctor will alter his Suppoſition, What ſhall we judge of the Second Part of his Book? What ſhall we ſay to the <hi>Matters of Fact,</hi> thoſe <hi>ſevere Things,</hi> as my Lord Biſhop of <hi>Sarum</hi> is pleas'd to call them,<note place="margin">Vindic. p. 53.</note> 
+               <hi>that do not admit of Sophiſtry?</hi> What ſhall we admire moſt? The Doctor's great Skill and Reading in Eccleſiaſtical Hiſtory, or his wonderful Judgment in producing ſo ma<g ref="char:EOLhyphen"/>ny Examples, ſome from the moſt degenerate Times of Chriſtianity, to prove only this, That in all Ages ſince the Empire became Chriſtian, and the Profeſſion of our
+<pb n="7" facs="tcp:58339:4"/>Holy Religion was not only Safe, but Honourable, there have been found ſome men, who poſſibly to get or keep Preferment, have been guilty of unwarrantable Com<g ref="char:EOLhyphen"/>pliances: For ſuch the Doctor muſt upon his own Hypo<g ref="char:EOLhyphen"/>theſis own they were, unleſs the Lay-Deprivations were back'd by a Synodical Sentence, or the depoſed Biſhops made room for their Succeſſors by a Voluntary Reſigna<g ref="char:EOLhyphen"/>tion and Ceſſion.</p>
+            <p>From hence it appears how neceſſary it was that the Doctor ſhould firſt have ſhew'd us how far the Authority of the Civil Power extends, towards the depriving Bi<g ref="char:EOLhyphen"/>ſhops of their Spiritualties; becauſe upon the ſettling of the Bounds of that, depends the meaſure of the Peoples Obedience to the preſent Poſſeſſor. For if the Civil Magiſtrate, as the <hi>Vindicator</hi> has endeavour'd to prove, have indeed no Power to deprive a Biſhop; then thoſe Chriſtians, in the Inſtances the Doctor has cited, (which are to his purpoſe) no doubt acted very ill, in deſerting him who had a Right to their Obedience, and adhering to another who had none. But the diſcuſſing this Point would have led the Doctor too far out of his Road of Ec<g ref="char:EOLhyphen"/>cleſiaſtical Hiſtory, and put him upon a Work to which neither his Genius, nor the Courſe of his Studies, nor, it may be, thoſe Secular Proſpects he had at that time, did at all incline him.</p>
+            <p>But to return: As for that one <hi>Groſs Error</hi> of this Au<g ref="char:EOLhyphen"/>thor, <hi>in preferring the Pretended Rights of particular perſons before the good of the whole Body, &amp;c.</hi> If inſtead of that Epithet <hi>Pretended,</hi> you will put the word <hi>Real,</hi> every body will ſay you muſt bate me the <hi>Groſs Error</hi> at the beginning of this Paragraph. And truly, Sir, your calling of them <hi>pretended Rights,</hi> will not make them ſuch.</p>
+            <p>But as for the Proof of this, you <hi>leave it to ſome better Pen, if it ſhall be thought worth the while.</hi> And indeed I wiſh it may <hi>not be thought worth the while;</hi> ſince a further debating of this Matter is not likely in the preſent Po<g ref="char:EOLhyphen"/>ſture of Affairs, to get the Church any more of its Juſt Rights than 'tis already poſſeſs'd of, and may poſſibly too
+<pb n="8" facs="tcp:58339:5"/>much expoſe particular Perſons. But if you ſhould be tempted to write upon this Subject, and you ſhould ven<g ref="char:EOLhyphen"/>ture to endeavour the Confutation of this Learned and Pious Author, I ſhall take the boldneſs to recommend this Piece of Advice to you, That you would treat his Perſon with all that Reſpect which is due to his Extraor<g ref="char:EOLhyphen"/>dinary Merits; in a word, That you would behave your ſelf to him, as he behaves himſelf to all thoſe he happens to differ from, with the greateſt Deference, Candor, and Modeſty.</p>
+            <p>And I am the rather inclined to take the liberty of re<g ref="char:EOLhyphen"/>commending this to you, becauſe by your way of wri<g ref="char:EOLhyphen"/>ting you ſeem, I had almoſt ſaid, Pedantically, to affect to be thought a <hi>Moderate Man.</hi> Which made me won<g ref="char:EOLhyphen"/>der the more, that you who had behaved your ſelf with that Caution and Tenderneſs towards others, even where a little more Severity would not have been perhaps much amiſs, ſhould unluckily fail of it only there, where it was moſt due, and beſt deſerv'd. <hi>Moderation</hi> is a Virtue that becomes a Scholar and a Miniſter better than any; but yet if it be miſplac'd, it loſes its Name and Nature, and degenerates into a vicious Lukewarmneſs and Indif<g ref="char:EOLhyphen"/>ferency. When the Foundations of all Religion in ge<g ref="char:EOLhyphen"/>neral, and the Sacred Truths of the Chriſtian in particu<g ref="char:EOLhyphen"/>lar, whether they be ſuch as reſpect the Faith, or Go<g ref="char:EOLhyphen"/>vernment and Diſcipline of the Church, are not only ſapped and undermined, but profeſſedly and openly at<g ref="char:EOLhyphen"/>tack'd, by Atheiſts, Deiſts, and Latitudinarians, all that are in earneſt with what they profeſs, ought preſently to take the Alarm, and with a ſuitable Concern, and a be<g ref="char:EOLhyphen"/>coming, diſcreet Zeal, boldly to defend their Holy Mo<g ref="char:EOLhyphen"/>ther the Church, from theſe her falſe Friends, and de<g ref="char:EOLhyphen"/>clar'd Enemies. We are commanded to <hi>contend earneſtly for the Faith,</hi> and to <hi>rebuke ſome men ſharply;</hi> and though the Truth and Obligation of theſe Commands is own'd by all in Theory; yet, I know not how, by diſtinguiſh<g ref="char:EOLhyphen"/>ing Times, Seaſons, and Circumſtances, they are ſo eva<g ref="char:EOLhyphen"/>ded by moſt, that they have almoſt loſt all their Force and Energy in Practice.</p>
+            <pb n="9" facs="tcp:58339:5"/>
+            <p>To what a deplorable State this Indifference in Matters of Religion, together with a good ample Toleration, will bring any Church in ſome time, we may judge from what we ſee in a Neighbour-State; where there is as great a variety and medly of Sects, Opinions, and Religions, as there was anciently of Tongues at <hi>Babel;</hi> where all Religions are profeſs'd, and none believ'd; where Men alter their Opinions in theſe Matters, as they do the Faſhion of their Cloaths, according to their own Humour, or the Cuſtoms of the Country where they are, or the Examples of thoſe with whom they converſe. For ſo we are told by an Author, that has given an account of this Country,<note place="margin">Sir <hi>W. T.</hi> of the <hi>Nether<g ref="char:EOLhyphen"/>lands,</hi> p. 207.</note> 
+               <q>That the Appearance of Religion is here like a Piece of Humanity, by which every one falls moſt into the Company or Converſation of thoſe, whoſe Cuſtoms and Humours, whoſe Talk and Diſpo<g ref="char:EOLhyphen"/>ſitions he likes beſt. And as in other Places, 'tis in eve<g ref="char:EOLhyphen"/>ry Man's choice with whom he will Eat, or Lodge, with whom go to Market, or to Court; ſo it is here with whom he will Pray, or go to Church, or aſſociate himſelf in the Service, and Worſhip of God: Nor is any more notice taken, or conſure paſs'd of what every one chuſes in theſe Caſes, than in the other.</q>
+            </p>
+            <p>But how much ſoever ſuch a State, and Face of Reli<g ref="char:EOLhyphen"/>gion may advance the Trade, and Commerce of a Coun<g ref="char:EOLhyphen"/>try, which I wiſh ſome Men don't prefer before all other Conſiderations; yet certainly nothing can be more prejudi<g ref="char:EOLhyphen"/>cial to Mens Eternal Intereſt, (which, whatever thoſe Men may think, are infinitely preferable to the other) than this humour of Indifferency, and ſuch an unlimited Toleration as is here deſcribed. For unleſs all Religions be alike, and every one ſhall be ſaved by living up to the Precepts of that Sect or Party which he is a Member of, (which no body that has any Religion will aſſert) it can be no indifferent thing with whom we aſſociate our ſelves in the Service of God: Since among the many Sects and Par<g ref="char:EOLhyphen"/>ties of Religion, into which any Nation may be divided, it is certain but one of them can be in the true, and <hi>that,</hi> by joining with which alone, in a viſible Communion,
+<pb n="10" facs="tcp:58339:6"/>Men are made capable of being Saved in the Ordinary way, even upon performing all the other Conditions of Salvation. And if this be true, I cannot ſee but all Civil Magiſtrates are indiſpenſably obliged, to uſe all fit means, that the <hi>True Religion</hi> may be profeſs'd by all thoſe that live within their Dominions, however inconſiſtent this may be with Trade, or any other Worldly Advantage.</p>
+            <p>The Ingenious <hi>Author</hi> above-mentioned has given us a very good Account, how ſuch an unlimited Toleration came to be ſetled in the Country I am ſpeaking of. It was not their being ſatisfied of the Lawfulneſs, or even Expediency (in reſpect of Religion) of ſuch an extrava<g ref="char:EOLhyphen"/>gant Liberty, that made them permit a mixtûre of all Religions among them, but the <hi>force of Commerce, and a Trading Converſation.</hi> This ſame Trade has a wonderful force and energy. We know whom it made Deny or Diſſemble their Chriſtianity in the <hi>Eaſt Indies.</hi> And I wiſh with all my heart, that Trade and <hi>Commiſſioners for Trade</hi> may have no ill influence upon the ſame Religion here in <hi>England.</hi>
+            </p>
+            <p>And as our <hi>Latitudinarians</hi> are thus injurious to Religi<g ref="char:EOLhyphen"/>on; ſo are They no leſs, who are for altering our preſent Eccleſiaſtical Conſtitution, in order to <hi>comprehend</hi> a party of Men, who have no mind to come within the Pale of the Church; becauſe they make their Markets much bet<g ref="char:EOLhyphen"/>ter by holding their Separate Conventicles. Theſe are the Men whoſe common Theme of Diſcourſe are the Miſcar<g ref="char:EOLhyphen"/>riages of the Two laſt Reigns, whether in Church or State; who read and admire the Secret Hiſtories that have come out of late, of what no body beſides the Au<g ref="char:EOLhyphen"/>thors of them, ever heard of. Others of them endeavour to ſhew their <hi>Impartiality</hi> and <hi>Moderation</hi> by owning ſome things that are charged upon the Church and Clergy, which are not really true. And this is the reaſon that I have known ſome Men accuſe, and condemn themſelves, recant, and give the Lie to their own Sermons, wherein they admirably well aſſerted and maintain'd the <hi>Doctrine of Paſſive Obedience,</hi> not above its due height, though per<g ref="char:EOLhyphen"/>haps in contradiction to the Opinions that are current at this time concerning it.</p>
+            <pb n="11" facs="tcp:58339:6"/>
+            <p>And I wiſh this be not the Motive which induced you, Sir,<note place="margin">P. 31.</note> to make that Severe Reflection concerning the Ma<g ref="char:EOLhyphen"/>nagement of <hi>Church-Diſcipline</hi> in this Nation. For, unleſs you mean ſome few Miſcarriages of <hi>Lay-Chancellors,</hi> I don't think you can give Three Inſtances of any very great miſmanagement of <hi>Church Power,</hi> beſides what the unhappy Circumſtances of the Church Cenſures, being directed and govern'd by our Civil Laws, have neceſſa<g ref="char:EOLhyphen"/>rily involved thoſe that inflict them in. So little reaſon you had to own any <hi>Irregularities and Extravagancies</hi> (no milder Terms, it ſeems, would ſerve your Turn) of thoſe who (you are pleas'd to ſay) exerciſe Church Power <hi>without regard to the Deſign, or Rules of Chriſtianity.</hi>
+            </p>
+            <p>And now, Sir, I have done with my Remarks upon your <hi>Paper;</hi> which I had not troubled my ſelf to take ſo much notice of, if you had not undeſervedly ſpoken ſo diſreſpectfully of the <hi>Vindicator of the Deprived Biſhops;</hi> whom all Men highly honour, for his great <hi>Innocence of Life, concern for Religion, and his incomparable Learning.</hi> Your Deſign in writing in behalf of <hi>Church-Diſcipline,</hi> which is very much wanted in this Nation, and which our Church in her Liturgy wiſhes might be reſtored, is highly commendable. 'Tis a Subject that well deſerves an able Pen, one that is exactly well acquainted with Primitive Antiquity, to manage it. And though we be not all ca<g ref="char:EOLhyphen"/>pable of ſaying all that might be ſaid upon ſome particu<g ref="char:EOLhyphen"/>lar Subjects, yet we ought to endeavour, as much as we can, to convince Men of thoſe Sacred Truths, which, by the iniquity of the Times, are moſt diſcountenanced, and run down. I am, Sir,</p>
+            <closer>
+               <signed>
+                  <hi>Your,</hi> &amp;c.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
